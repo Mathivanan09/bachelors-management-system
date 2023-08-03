@@ -1,0 +1,16 @@
+Bachelors Management System:
+
+Page navigation design will be side nav bar with user profile picture(If needed), name and member_id. Will have a symbold or trible dot for more user options.
+
+1. Get the room memebers details like Name, email, mobile_no, Native, gender, Work_location, Designation, work_type, whatsapp_no, chef, password, member_id, member_type,
+ opinion. 
+2. Store these details in a table so-called room_members_details. (Additionally should generate member_id if new member).
+3. Show the name, member_id, password.
+4. Have to show the Terms and Conditions as a modal, While entering the dashboard(If new member).
+5. In dashboard, we should show common things like howmuch Groceries we have, who is today's chef, co-chef, assistant(Vegitables cutter).
+6. Should display the numbers of Gas booking, Watercan booking, Wifi recharging(Landline no).
+7. Should show a progress bar for balance amount. We can show the warning alert modal automatically when login(Twice a day).
+8. Should indicate gas, rice, wifi recharging since last two days.
+9. Financial progress should be a separate part.
+9.  Should show the 2-3 months financial status and complaints and also should have the comparison only for Admin and Financian.
+
